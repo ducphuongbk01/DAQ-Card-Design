@@ -1,0 +1,78 @@
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\bin\Debug\BTL.exe
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\bin\Debug\BTL.pdb
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.Form1.resources
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.exe
+E:\BK\Nam III\HK2\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\bin\Debug\BTL.exe.config
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\bin\Debug\BTL.exe
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\bin\Debug\BTL.pdb
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.Form1.resources
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.exe
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\Tri Hoang\Desktop\DLDKMT\BTL\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\download\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe.config
+D:\download\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe
+D:\download\BTL_DLDKMT-main\BTL\bin\Debug\BTL.pdb
+D:\download\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\download\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Form1.resources
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Properties.Resources.resources
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CopyComplete
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.exe
+D:\download\BTL_DLDKMT-main\BTL\obj\Debug\BTL.pdb
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe.config
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.pdb
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Form1.resources
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CopyComplete
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.exe
+E:\BK\Nam III\HK2\DLDKMT\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.pdb
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe.config
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.pdb
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Form1.resources
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CopyComplete
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.exe
+E:\ProjectSTM\Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.pdb
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe.config
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.exe
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\bin\Debug\BTL.pdb
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csprojAssemblyReference.cache
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Form1.resources
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.Properties.Resources.resources
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.csproj.CopyComplete
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.exe
+E:\ProjectSTM\BTL_DLDKMT_Update_1\BTL_DLDKMT-main\BTL\obj\Debug\BTL.pdb
